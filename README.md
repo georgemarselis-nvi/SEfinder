@@ -10,3 +10,9 @@ CLI tool, solo dev license, non-GPL usage/commercial: €1000
 Enterprise license (multi-seat, support): €20,000/year
 
 CI plugin/SaaS (per project): €200/month/project-->
+
+Why you need it:
+
+<img width="1575" height="1239" alt="image" src="https://github.com/user-attachments/assets/00f199d4-d4ce-4b31-887a-63c076b6e526" />
+
+on a fresh fedora 43 distupgade
